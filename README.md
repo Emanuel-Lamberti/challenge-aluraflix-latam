@@ -1,6 +1,6 @@
 Challenge React curso Front End React Alura Latam
 
--Link al proyecto alojado en vercel: 
+-Link al proyecto alojado en vercel: https://challenge-aluraflix.vercel.app
 
 
 ![](aluraflix/fotos/foto1.jpg)
